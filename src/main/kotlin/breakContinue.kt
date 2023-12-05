@@ -1,3 +1,5 @@
+@file:Suppress("NAME_SHADOWING")
+
 fun main() {
     var i = 0
     while (true) {
